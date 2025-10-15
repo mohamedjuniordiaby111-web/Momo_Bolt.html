@@ -1,0 +1,43 @@
+<html>
+    <head>
+        <body>
+            <img src="https://cdn.artphotolimited.com/images/60913d60bd40b85323893a87/300x300/leve-toi-et-bats-toi.jpg">
+        
+            <h1>club de boxe </h1>
+            
+            <h1>Nom du coach: Cadenas</h1>
+            <h1>Prenom: Francis</h1>
+            <h1>courbevoie : <a href="https://www.ville-courbevoie.fr/66-417/sport-et-associations/annuaire-des-clubs-sportifs/ficheAnnu/courbevoie-boxe-anglaise.htm">les coordoner de la salle de boxe</a></h1>
+            <br></br>
+            <p>La boxe est bien plus qu’un sport, c’est une école de discipline, de confiance en soi et de dépassement personnel. En montant sur le ring, tu apprends à te battre pour tes rêves tout en gardant le respect et l’humilité. Alors, n’hésite plus, lance-toi dans la boxe et découvre la force qui sommeille en toi !</p>
+            <ul>
+                <h1>les competence que vous dever absolument avoir </h1>
+                <li>la discipline</li>
+                <li>la motivation</li>
+                <li>le courage</li>
+                <li>la dale</li>
+
+            </ul>       
+            <ul>
+                <h2>pour me donner vos coordonner</h2>
+                <li><a href="contact.html">coordoner</a></li>
+            </ul>
+            
+              
+        </body>
+        <style>
+            img{width: 20%;
+                position: absolute;
+                left: 80%;
+
+            }
+
+
+        </style>
+
+
+
+
+    </head>
+
+</html>
